@@ -16,19 +16,19 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**:   
    ```bash   
    git clone https://github.com/MKhalidHossain/book_town_Admin.git
-Navigate to the Project Directory:   
-bash   
-Copy code   
-cd book_town_Admin   
-Install Dependencies: Ensure you have Flutter installed. Then, run:   
-bash   
-Copy code   
-flutter pub get   
-Run the Application:   
-bash   
-Copy code   
-flutter run   
-Prerequisites   
+2. **Navigate to the Project Directory**:   
+   ```bash   
+   Copy code   
+   cd book_town_Admin   
+3. **Install Dependencies: Ensure you have Flutter installed. Then, run**:   
+   ```bash   
+   Copy code   
+   flutter pub get   
+4. **Run the Application**:   
+   ```bash   
+   Copy code   
+   flutter run   
+**Prerequisites** 
 Flutter SDK: Ensure that Flutter is installed on your machine.   
 Dart SDK: Included with Flutter.   
 Contributing   
@@ -37,7 +37,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 Contact
 For any inquiries or feedback, please reach out to:
 
-Md. Khalid Hossain
+Md. Khalid Hossain   
 📧 Email: hossainkhalid93@gmail.com  
 🔗 GitHub: github.com/MKhalidHossain   
 🔗 LinkedIn: linkedin.com/in/md-khalidhossain   
