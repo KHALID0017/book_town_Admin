@@ -17,16 +17,13 @@ To set up the project locally, follow these steps:
    ```bash   
    git clone https://github.com/MKhalidHossain/book_town_Admin.git
 2. **Navigate to the Project Directory**:   
-   ```bash   
-   Copy code   
+   ```bash    
    cd book_town_Admin   
 3. **Install Dependencies: Ensure you have Flutter installed. Then, run**:   
    ```bash   
-   Copy code   
    flutter pub get   
 4. **Run the Application**:   
    ```bash   
-   Copy code   
    flutter run   
 **Prerequisites** 
 Flutter SDK: Ensure that Flutter is installed on your machine.   
